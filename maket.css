@@ -1,0 +1,99 @@
+.header{
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 220px;
+    top: 0px;
+    background-color: white;
+    border: 2px solid rgb(168, 168, 168);
+}
+.photo{
+    display: flex;
+    position: absolute;
+    width: 131px;
+    height: 72px;
+    left: 100px;
+    top: 17px;
+    right: 27px;
+}
+.palka{
+    display: flex;
+    position: absolute;
+    width: 0,5px;
+    height: 100px;
+    left: 258px;
+    top: 5px;
+    color: rgb(93, 93, 94);
+}
+.language{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 285px;
+    top: 5px;
+}
+.palka2{
+    display: flex;
+    position: absolute;
+    width: 0,5px;
+    height: 100px;
+    left: 339px;
+    top: 5px;
+    color: rgb(93, 93, 94);
+}
+.money{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 5px;
+    font-size: 15px;
+    line-height: 19px;
+    
+}
+.palka3{  
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 465px;
+    top: 5px;
+    color: rgb(93, 93, 94);
+}
+.icons{
+    flex-direction: row;
+    position: absolute;
+    left: 497px;
+    right: 20px;
+    top: 41px;
+    color: rgb(93, 93, 94);
+}
+.palka4{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 601px;
+    top: 5px;
+    color: rgb(93, 93, 94);
+}
+.phone-numbers{
+    position: absolute;
+    width: 128px;
+    height: 21px;
+    left: 627px;
+    top: 5px;
+}
+.phone{
+    position: absolute;
+    left: 760px;
+    right: 647px;
+    top: 41px;
+}
+.palka5{
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    left: 826px;
+    top: 5px;
+    color: rgb(93, 93, 94); 
+}
